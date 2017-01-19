@@ -1,0 +1,97 @@
+[19-Jan-2017 04:43:44 UTC] PHP Warning:  require(/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:43:44 UTC] PHP Stack trace:
+[19-Jan-2017 04:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:43:44 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:43:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:43:44 UTC] PHP Stack trace:
+[19-Jan-2017 04:43:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:43:44 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:44 UTC] PHP Warning:  require(/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:44 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:44 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:44 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:44 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:44 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:46 UTC] PHP Warning:  require(/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:46 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:46 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:46 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:46 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:47 UTC] PHP Warning:  require(/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:47 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:47 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:47 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:47 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:48 UTC] PHP Warning:  require(/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:48 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:48 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:48 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:48 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:48 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:53 UTC] PHP Warning:  require(/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:53 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:53 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 04:45:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/gotham/bootstrap/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/gotham/bootstrap/autoload.php on line 17
+[19-Jan-2017 04:45:53 UTC] PHP Stack trace:
+[19-Jan-2017 04:45:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 04:45:53 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 05:44:47 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 05:44:47 UTC] PHP Stack trace:
+[19-Jan-2017 05:44:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 05:44:47 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 05:44:47 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 05:44:47 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 05:44:47 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
+[19-Jan-2017 05:45:10 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 05:45:10 UTC] PHP Stack trace:
+[19-Jan-2017 05:45:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 05:45:10 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 05:45:10 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 05:45:10 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 05:45:10 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
+[19-Jan-2017 05:46:59 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 05:46:59 UTC] PHP Stack trace:
+[19-Jan-2017 05:46:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 05:46:59 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 05:46:59 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 05:46:59 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 05:46:59 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
+[19-Jan-2017 06:00:58 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 06:00:58 UTC] PHP Stack trace:
+[19-Jan-2017 06:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 06:00:58 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 06:00:58 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 06:00:58 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 06:00:58 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
+[19-Jan-2017 06:02:50 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 06:02:50 UTC] PHP Stack trace:
+[19-Jan-2017 06:02:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 06:02:50 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 06:02:50 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 06:02:50 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 06:02:50 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
+[19-Jan-2017 06:05:52 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 06:05:52 UTC] PHP Stack trace:
+[19-Jan-2017 06:05:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 06:05:52 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 06:05:52 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 06:05:52 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 06:05:52 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
+[19-Jan-2017 06:05:54 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/gotham/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 476
+[19-Jan-2017 06:05:54 UTC] PHP Stack trace:
+[19-Jan-2017 06:05:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/gotham/public/index.php:0
+[19-Jan-2017 06:05:54 UTC] PHP   2. require() /home/ubuntu/workspace/gotham/public/index.php:22
+[19-Jan-2017 06:05:54 UTC] PHP   3. require() /home/ubuntu/workspace/gotham/bootstrap/autoload.php:17
+[19-Jan-2017 06:05:54 UTC] PHP   4. ComposerAutoloaderInitf7b3fd8e6c3ca674a39a77d78c842797::getLoader() /home/ubuntu/workspace/gotham/vendor/autoload.php:7
+[19-Jan-2017 06:05:54 UTC] PHP   5. composerRequiref7b3fd8e6c3ca674a39a77d78c842797() /home/ubuntu/workspace/gotham/vendor/composer/autoload_real.php:56
