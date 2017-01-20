@@ -1,5 +1,7 @@
 # Development Plan: Gotham
 
+[![Join the chat at https://gitter.im/jamesmuldrow/Lobby](https://badges.gitter.im/jamesmuldrow/Lobby.svg)](https://gitter.im/jamesmuldrow/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### January 18, 2017
 
 ## 1.	<b>Overview</b>
